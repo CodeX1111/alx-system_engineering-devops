@@ -1,1 +1,1 @@
-The pwd prints the absolute path name of the current working directory
+This shows how to  print the absolute path name of a current working directory
