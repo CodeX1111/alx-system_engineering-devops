@@ -5,3 +5,4 @@ This script changes the working directory to home
 This displays current directory contents in a long format
 This current directory contents, including hidden files (starting with .). Use the long format
 This display current directory contents
+This script that creates a directory inside another directory
