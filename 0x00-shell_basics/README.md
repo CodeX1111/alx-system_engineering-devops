@@ -7,3 +7,4 @@ This current directory contents, including hidden files (starting with .). Use t
 This display current directory contents
 This script that creates a directory inside another directory
 This Move the file betty from /tmp/ to /tmp/my_first_directory
+This delete the file betty
