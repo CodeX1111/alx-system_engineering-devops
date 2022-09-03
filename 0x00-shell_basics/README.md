@@ -10,3 +10,4 @@ This Move the file betty from /tmp/ to /tmp/my_first_directory
 This delete the file betty
 This Delete the directory my_first_directory that is in the /tmp directory
 This script that changes the working directory to the previous one
+This script that lists all files
