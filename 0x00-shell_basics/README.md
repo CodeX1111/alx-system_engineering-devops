@@ -12,3 +12,4 @@ This Delete the directory my_first_directory that is in the /tmp directory
 This script that changes the working directory to the previous one
 This script that lists all files
 this Wriwe a script that prints the type of the file named iamafile
+ script that copies all the HTML files from the current working directory to the parent of the working directory
