@@ -1,1 +1,1 @@
-This repo contains shell-basics
+Shell basics
