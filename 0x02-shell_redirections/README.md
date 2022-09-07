@@ -18,3 +18,4 @@ Whats next? >> README.md
 echo Whats next?
 I hate bins
 Letters only please
+A TO Z
