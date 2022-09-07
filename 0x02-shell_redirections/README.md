@@ -10,3 +10,4 @@ Save current state of directory
 Duplicate last line
 No more javascript
 Dont just count your directories, make your directies count
+What’s new
