@@ -16,3 +16,4 @@ Being unique is better than being perfect
 Count that word
 Whats next? >> README.md
 echo Whats next?
+I hate bins
