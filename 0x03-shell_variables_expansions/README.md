@@ -13,3 +13,4 @@ Love is anterior to life,psterior to death, initial of creation and the exponent
 Write a script that converts a number from base 2 to 10
 Combination
  Floats
+Decimal to Hexadecimal
