@@ -11,3 +11,4 @@ Every addition to true knowledge is an addition to human power
 Divide and rule
 Love is anterior to life,psterior to death, initial of creation and the exponent of breath
 Write a script that converts a number from base 2 to 10
+Combination
