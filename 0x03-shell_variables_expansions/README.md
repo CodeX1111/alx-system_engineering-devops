@@ -6,3 +6,4 @@ Global variables
 Local variables
 Local variable
 Global variable
+Global variable
